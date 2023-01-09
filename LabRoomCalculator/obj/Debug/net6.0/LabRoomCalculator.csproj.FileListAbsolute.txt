@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/bin/Debug/net6.0/LabRoomCalculator
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/bin/Debug/net6.0/LabRoomCalculator.deps.json
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/bin/Debug/net6.0/LabRoomCalculator.runtimeconfig.json
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/bin/Debug/net6.0/LabRoomCalculator.dll
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/bin/Debug/net6.0/LabRoomCalculator.pdb
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.AssemblyInfo.cs
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.dll
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/refint/LabRoomCalculator.dll
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.pdb
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/LabRoomCalculator.genruntimeconfig.cache
+/Users/wilchec/Projects/LabRoomCalculator/LabRoomCalculator/obj/Debug/net6.0/ref/LabRoomCalculator.dll
